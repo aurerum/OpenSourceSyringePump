@@ -16,4 +16,4 @@ The project is based on the well know and cheap arduino nano micro controler whi
 
 <h2>Operation</h2>
 Three touch buttons control the device, the two arrows are used to move forward and backward, it is the manual mode.
-The disc on the center is the mode automatic, when it is pressed the carriage move forward a little bit each X minutes depending of what is programmed.
+The disc on the center is the automatic mode, when it is pressed the carriage move forward a little bit each X minutes depending of what is programmed.
