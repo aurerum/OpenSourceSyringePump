@@ -1,4 +1,4 @@
-# OpenSourceSyringePump
+# Open Source Syringe Pump
 Syringe pump designed for Empty Nose Syndrome
 
 <h2>Introduction</H2>
