@@ -12,7 +12,7 @@ The 3d files are in two folders for the both format .step and .stl, .stl can be 
 <h2>Electronics parts</h2>
 The project is based on the well know and cheap arduino nano micro controler which control a stepper motor via a motor driver.
 
-<h2>Mechanical parts parts</h2>
+<h2>Mechanical parts</h2>
 
 <h2>Operation</h2>
 Three touch buttons control the device, the two arrows are used to move forward and backward, it is the manual mode.
