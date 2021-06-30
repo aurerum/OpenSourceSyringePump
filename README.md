@@ -19,7 +19,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
 <img src="https://enstips.com/wp-content/uploads/2021/06/injecteur-deau-eclate-2.jpg"
      alt="Grapefruit slice atop a pile of other slices">
 
-<table class="table table-dark table-striped">
+<table>
            <tr class="dark">
                <th>Token name</th>
                <th>Quantity</th>
@@ -36,8 +36,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
            </tr>
           
 
-
-      </table>
+</table>
 
 <h2>Operation</h2>
 Three touch buttons control the device, the two arrows are used to move forward and backward, it is the manual mode.
