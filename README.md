@@ -110,7 +110,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
  <tr>
                <td>12</td>
                <td>Nema 17 stepper motor</td>
-               <td>2</td>
+               <td>1</td>
                <td>You can buy this part in many places</td>
  </tr>
 
