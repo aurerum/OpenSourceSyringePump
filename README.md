@@ -20,19 +20,22 @@ The project is based on the well know and cheap arduino nano micro controler whi
      alt="Grapefruit slice atop a pile of other slices">
 
 <table>
-           <tr class="dark">
-               <th>Token name</th>
-               <th>Quantity</th>
-               <th>Value</th>
-               <th>Total value</th>
-               <th>Percentage holding %</th>
+           
+           <tr>
+               <th>3D printed parts</th>
+              
            </tr>
-           <tr class="light">
+          <tr>
+               <th>Designation</th>
+               <th>Quantity</th>
+               <th>Where to buy ?</th>
+              
+           </tr>
+           <tr>
                <td>Fiat</td>
                <td id="quantityFiat">41000</td>
                <td>1</td>
-               <td id="totalFiat"></td>
-               <td id="percentageFiat"></td>
+               
            </tr>
           
 
