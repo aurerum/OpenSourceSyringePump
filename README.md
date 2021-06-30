@@ -188,6 +188,12 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <td>1</td>
                <td>You can buy this in many places</td>
  </tr>
+ <tr>
+               <td>11</td>
+               <td>Female - female jumper wires </td>
+               <td>1</td>
+               <td><a href=https://www.dfrobot.com/product-356.html" target="_blank">Female - female jumper wires DFRobot</a></td>
+ </tr>
 
 </table>
 
