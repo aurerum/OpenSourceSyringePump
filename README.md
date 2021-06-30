@@ -21,21 +21,26 @@ The project is based on the well know and cheap arduino nano micro controler whi
 
 <table>
            
-           <tr>
-               <th>3D printed parts</th>
-              
-           </tr>
+          <caption>3D printed part</caption>
           <tr>
+               <th>Number</th>
                <th>Designation</th>
                <th>Quantity</th>
                <th>Where to buy ?</th>
               
            </tr>
            <tr>
-               <td>Fiat</td>
-               <td id="quantityFiat">41000</td>
                <td>1</td>
-               
+               <td>Main part n°1</td>
+               <td>1</td>
+               <td>-</td>
+           </tr>
+     
+          <tr>
+               <td>2</td>
+               <td>Main part n°2</td>
+               <td>1</td>
+               <td>-</td>
            </tr>
           
 
