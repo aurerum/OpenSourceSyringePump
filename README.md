@@ -49,7 +49,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <td>3</td>
                <td>Carriage</td>
                <td>1</td>
-               <td>-</td>
+               <td><a href="https://github.com/aurerum/OpenSourceSyringePump/blob/main/STL/Carriage.STL" target="_blank">STL part</a></td>
  </tr>
      
  <tr>
@@ -116,7 +116,11 @@ The project is based on the well know and cheap arduino nano micro controler whi
 
 </table>
 
-
+<img src="https://enstips.com/wp-content/uploads/2021/07/Boitier-eclate-numero.jpg"
+     alt="exploded view electronic box">
+     
+<img src="https://enstips.com/wp-content/uploads/2021/07/Boitier-eclate-numero-2.jpg"
+     alt="exploded view electronic box 2">
 
 
 <table>
@@ -189,7 +193,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <td>You can buy this in many places</td>
  </tr>
  <tr>
-               <td>9</td>
+               <td>-</td>
                <td>Female - female jumper wires </td>
                <td>1</td>
                <td><a href=https://www.dfrobot.com/product-356.html" target="_blank">Female - female jumper wires DFRobot</a></td>
@@ -200,14 +204,14 @@ The project is based on the well know and cheap arduino nano micro controler whi
  </tr>
 
  <tr>
-               <td>10</td>
+               <td>9</td>
                <td>TBHC M3 x 8</td>
                <td>6</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
  </tr>
                     
  <tr>
-               <td>11</td>
+               <td>10</td>
                <td>CHC M3 x 6</td>
                <td>14</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
@@ -215,21 +219,21 @@ The project is based on the well know and cheap arduino nano micro controler whi
                     
                     
  <tr>
-               <td>12</td>
+               <td>11</td>
                <td>CHC M3 x 12</td>
                <td>4</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
  </tr>
                     
  <tr>
-               <td>13</td>
+               <td>12</td>
                <td>Nut M3</td>
                <td>6</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
  </tr>
                     
  <tr>
-               <td>14</td>
+               <td>13</td>
                <td>Spacer M3 x 10</td>
                <td>7</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
