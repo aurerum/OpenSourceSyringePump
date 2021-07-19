@@ -153,48 +153,87 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <th colspan="4">Electronic parts</th>
  </tr>
  <tr>
-               <td>11</td>
+               <td>3</td>
                <td>Arduino nano</td>
                <td>1</td>
                <td><a href="https://www.dfrobot.com/product-786.html" target="_blank">Arduino nano DFRobot</a></td>
  </tr>
  <tr>
-               <td>11</td>
+               <td>4</td>
                <td>Nano shield</td>
                <td>1</td>
                <td><a href="https://www.dfrobot.com/product-68.html" target="_blank">Nano shield DFRobot</a></td>
  </tr>
  <tr>
-               <td>11</td>
+               <td>5</td>
                <td>Stepper driver, DRV8825 or TMC2208</td>
                <td>1</td>
                <td>You can buy this in many places</td>
  </tr>
  <tr>
-               <td>11</td>
+               <td>6</td>
                <td>Stepper driver shield</td>
                <td>1</td>
                <td><a href="https://www.ebay.fr/itm/321589920004?hash=item4ae040c104:g:iOAAAOSwfyBbUHDG" target="_blank">Stepper driver shield ebay</a></td>
  </tr>
  <tr>
-               <td>11</td>
+               <td>7</td>
                <td>Touch button</td>
                <td>3</td>
                <td><a href="https://fr.aliexpress.com/item/32570170116.html?spm=a2g0o.store_pc_groupList.8148356.5.34e0179ajqIRI4" target="_blank">Touch button aliexpress</a></td>
  </tr>
 <tr>
-               <td>11</td>
+               <td>8</td>
                <td>Jack adapter female 2.1 mm</td>
                <td>1</td>
                <td>You can buy this in many places</td>
  </tr>
  <tr>
-               <td>11</td>
+               <td>9</td>
                <td>Female - female jumper wires </td>
                <td>1</td>
                <td><a href=https://www.dfrobot.com/product-356.html" target="_blank">Female - female jumper wires DFRobot</a></td>
  </tr>
+                    
+ <tr>  
+               <th colspan="4">Screws</th>
+ </tr>
 
+ <tr>
+               <td>10</td>
+               <td>TBHC M3 x 8</td>
+               <td>6</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+                    
+ <tr>
+               <td>11</td>
+               <td>CHC M3 x 6</td>
+               <td>14</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+                    
+                    
+ <tr>
+               <td>12</td>
+               <td>CHC M3 x 12</td>
+               <td>4</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+                    
+ <tr>
+               <td>13</td>
+               <td>Nut M3</td>
+               <td>6</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+                    
+ <tr>
+               <td>14</td>
+               <td>Spacer M3 x 10</td>
+               <td>7</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
 </table>
 
 <h2>Operation</h2>
