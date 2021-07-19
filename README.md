@@ -7,6 +7,10 @@ This device has been designed to inject physiological serum in nose during night
 In addition heated wires can be plugged in order to heat the nasal cvity, again for increase sensations.
 
 
+https://user-images.githubusercontent.com/80455782/126234150-841e0ce9-54df-4337-b9bd-3a2b1212d7b4.mp4
+
+
+
 <h2>3D printed parts</h2>
 The 3d files are in two folders for the both format .step and .stl, .stl can be used directly to print the part. .step is usefull if you want to modify the design.
 
