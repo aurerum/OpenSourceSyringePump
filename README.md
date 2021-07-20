@@ -19,10 +19,16 @@ The project is based on the well know and cheap arduino nano micro controler whi
 
 <h2>Mechanical parts</h2>
 
-<h2>Views and nomenclature</h2>
+<h2>Exploded views and nomenclature</h2>
 
-<img src="https://enstips.com/wp-content/uploads/2021/06/injecteur-deau-eclate-2.jpg"
-     alt="Grapefruit slice atop a pile of other slices">
+<img src="https://enstips.com/wp-content/uploads/2021/07/Injecteur-d-eau-vue-eclate-avec-numero-3.jpg"
+     alt="Syringe pump exploded view">
+ 
+<img src="https://enstips.com/wp-content/uploads/2021/07/Injecteur-d-eau-vue-eclate-avec-numero-2.jpg"
+     alt="Syringe pump exploded view 2">
+     
+<img src="https://enstips.com/wp-content/uploads/2021/07/Injecteur-d-eau-vue-eclate-avec-numero-0.jpg"
+     alt="Syringe pump exploded view 3">
 
 <table>
 <tr>  
@@ -117,6 +123,53 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <td>Nema 17 stepper motor</td>
                <td>1</td>
                <td>You can buy this part in many places</td>
+ </tr>
+     
+     
+ <tr>  
+               <th colspan="4">Screws</th>
+ </tr>
+ <tr>
+               <td>13</td>
+               <td>CHC M3 x 12</td>
+               <td>4</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+     
+ <tr>
+               <td>14</td>
+               <td>CHC M3 x 6</td>
+               <td>6</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+     
+     
+ <tr>
+               <td>15</td>
+               <td>CHC M3 x 55</td>
+               <td>4</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+     
+ <tr>
+               <td>16</td>
+               <td>CHC M3 x 20</td>
+               <td>8</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+     
+ <tr>
+               <td>17</td>
+               <td>CHC M3 x 25</td>
+               <td>4</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
+ </tr>
+     
+ <tr>
+               <td>18</td>
+               <td>M3 nut</td>
+               <td>16</td>
+               <td>You can buy this in many places, be careful these are metric screws</td>
  </tr>
 
 </table>
@@ -232,7 +285,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
                     
  <tr>
                <td>12</td>
-               <td>Nut M3</td>
+               <td>M3 nut</td>
                <td>6</td>
                <td>You can buy this in many places, be careful these are metric screws</td>
  </tr>
