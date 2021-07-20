@@ -4,7 +4,6 @@ Syringe pump designed for Empty Nose Syndrome
 <h2>Introduction</H2>
 I created this device to help people who suffer from Empty Nose Syndrome to sleep better.
 This device has been designed to inject physiological serum in nose during night to moisten the nasal cavity and increase airflow sensation.
-In addition heated wires can be plugged in order to heat the nasal cvity, again for increase sensations.
 
 
 https://user-images.githubusercontent.com/80455782/126234150-841e0ce9-54df-4337-b9bd-3a2b1212d7b4.mp4
