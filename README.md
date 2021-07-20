@@ -59,7 +59,7 @@ The project is based on the well know and cheap arduino nano micro controler whi
                <td>3</td>
                <td>Carriage</td>
                <td>1</td>
-               <td><a href="https://github.com/aurerum/OpenSourceSyringePump/blob/main/STL/Carriage.STL" target="_blank">STL part</a></td>
+               <td>-</td>
  </tr>
      
  <tr>
